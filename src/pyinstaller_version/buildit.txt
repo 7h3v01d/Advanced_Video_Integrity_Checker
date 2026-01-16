@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --icon="E:\Projects\ffCheck\pyinstaller_version\icon.ico" --add-binary "E:\Projects\ffCheck\pyinstaller_version\ffmpeg.exe;." --name="Video Integrity Checker" avic.py
