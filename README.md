@@ -74,3 +74,27 @@ Use of this software constitutes acceptance of the terms defined in **LICENSE.tx
 ## Troubleshooting
 - **'ffmpeg' not found**: Ensure FFmpeg is in the script's folder or PATH.
 - **Slow folder scanning**: For large folders, scanning may take time; a progress indicator is planned for future updates.
+
+## Contribution Policy
+
+Feedback, bug reports, and suggestions are welcome.
+
+You may submit:
+
+- Issues
+- Design feedback
+- Pull requests for review
+
+However:
+
+- Contributions do not grant any license or ownership rights
+- The author retains full discretion over acceptance and future use
+- Contributors receive no rights to reuse, redistribute, or derive from this code
+
+---
+
+License
+This project is not open-source.
+
+It is licensed under a private evaluation-only license.
+See LICENSE.txt for full terms.
