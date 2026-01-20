@@ -1,21 +1,110 @@
-MIT License
 
-Copyright (c) 2026 Leon Priest
+Private Evaluation & Testing License (PETL) v1.0
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Copyright © 2026
+All rights reserved.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+----------------------------------------------------------------------
+IMPORTANT — READ CAREFULLY
+----------------------------------------------------------------------
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+This software is NOT open-source.
+
+This repository is made available solely for private technical
+evaluation and testing purposes, including code review, architectural
+assessment, and non-production experimentation by the individual
+recipient.
+
+Accessing, cloning, viewing, or using this repository constitutes
+acceptance of the terms below.
+
+----------------------------------------------------------------------
+PERMITTED USE
+----------------------------------------------------------------------
+
+You are permitted to:
+
+• View the source code
+• Run the software locally for private evaluation and testing
+• Inspect architecture, structure, and implementation techniques
+• Report bugs or provide feedback to the author
+• Submit suggested changes or pull requests for review
+
+All permitted use must be:
+• Non-commercial
+• Non-production
+• Non-institutional
+• Non-academic
+• Non-governmental
+• Non-research-oriented
+
+----------------------------------------------------------------------
+PROHIBITED USE
+----------------------------------------------------------------------
+
+The following are strictly prohibited without prior written permission
+from the copyright holder:
+
+• Commercial use of any kind
+• Production deployment or operational use
+• Academic, institutional, or government use
+• Research use, including experiments, studies, benchmarking, or papers
+• Publication of results, metrics, screenshots, or analyses
+• Redistribution or sublicensing in any form
+• Repackaging or bundling with other software
+• Creation of derivative works
+• Independent development based on this code
+• Copying of algorithms, structure, or implementation patterns
+• Use as training data for machine learning or AI systems
+• Reverse engineering for competitive or substitute products
+
+----------------------------------------------------------------------
+CONTRIBUTIONS
+----------------------------------------------------------------------
+
+You may submit suggestions, issues, or pull requests.
+
+However:
+
+• Submission of contributions does NOT grant any license or rights
+• Ownership of all code remains exclusively with the author
+• The author may accept, modify, or reject contributions at discretion
+• Contributors receive no rights to reuse, redistribute, or repurpose
+  any portion of the codebase
+
+----------------------------------------------------------------------
+INTELLECTUAL PROPERTY
+----------------------------------------------------------------------
+
+All intellectual property rights, including but not limited to
+copyright, design, architecture, algorithms, and implementation,
+remain the exclusive property of the author.
+
+No rights are granted except those explicitly stated in this license.
+
+----------------------------------------------------------------------
+NO WARRANTY
+----------------------------------------------------------------------
+
+This software is provided “AS IS”, without warranty of any kind,
+express or implied, including but not limited to fitness for a
+particular purpose, accuracy, or reliability.
+
+----------------------------------------------------------------------
+TERMINATION
+----------------------------------------------------------------------
+
+Any violation of this license immediately terminates all permissions
+granted herein. Upon termination, you must delete all copies of the
+software in your possession.
+
+----------------------------------------------------------------------
+CONTACT
+----------------------------------------------------------------------
+
+For permission requests, licensing inquiries, or commercial discussions,
+contact the author directly.
+
+----------------------------------------------------------------------
+END OF LICENSE
+----------------------------------------------------------------------
