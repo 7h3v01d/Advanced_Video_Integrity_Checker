@@ -1,6 +1,22 @@
 # Advanced Video Integrity Checker
 A powerful, user-friendly desktop application for batch-verifying the integrity of video files using FFmpeg. Designed for media enthusiasts, archivists, and professionals to ensure their video library is free from corruption.
 
+⚠️ **LICENSE & USAGE NOTICE — READ FIRST**
+
+This repository is **source-available for private technical evaluation and testing only**.
+
+- ❌ No commercial use  
+- ❌ No production use  
+- ❌ No academic, institutional, or government use  
+- ❌ No research, benchmarking, or publication  
+- ❌ No redistribution, sublicensing, or derivative works  
+- ❌ No independent development based on this code  
+
+All rights remain exclusively with the author.  
+Use of this software constitutes acceptance of the terms defined in **LICENSE.txt**.
+
+---
+
 ## Features
 - **Batch Processing**: Add files, folders, or drag-and-drop them onto the application.
 - **Concurrent Checking**: Multi-threaded processing with adjustable concurrent checks (default: half CPU cores).
