@@ -74,6 +74,3 @@ Use of this software constitutes acceptance of the terms defined in **LICENSE.tx
 ## Troubleshooting
 - **'ffmpeg' not found**: Ensure FFmpeg is in the script's folder or PATH.
 - **Slow folder scanning**: For large folders, scanning may take time; a progress indicator is planned for future updates.
-
-## License
-MIT License.
